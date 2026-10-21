@@ -16,4 +16,4 @@ This folder contains screenshots of my SQL project created using MySQL Workbench
 - **Tool:** MySQL Workbench
 - **Skill:** SQL
 - **Project Type:** Data Analytics
--
+

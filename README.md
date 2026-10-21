@@ -34,7 +34,32 @@ The project uses four datasets stored in the `data/` folder.
 - `screenshots//` — Query results and analysis screenshots
 
 ## Key Findings
-Add your actual findings from your SQL query results here.
+
+This section summarizes the key findings from the Customer Retention & Cohort Analysis project.
+
+## Business Performance
+
+Analyzed overall business performance using SQL queries to understand order trends and revenue patterns.
+
+## Customer Behavior
+
+Evaluated customer purchasing behavior and repeat purchases to understand customer activity.
+
+## Cohort Analysis
+
+Grouped customers based on their first purchase month to analyze customer retention patterns over time.
+
+## Product Performance
+
+Analyzed product sales to identify top-performing products based on revenue.
+
+## Data Quality
+
+Checked data consistency, missing values, and duplicate records to improve data reliability.
+
+## Business Recommendations
+
+Suggested strategies to improve customer retention, encourage repeat purchases, and support data-driven business decisions.
 
 ## Conclusion
 This project demonstrates the use of SQL to analyze customer purchasing behavior and retention patterns.

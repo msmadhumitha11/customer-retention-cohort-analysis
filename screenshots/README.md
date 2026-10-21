@@ -1,8 +1,8 @@
-Customer Retention & Cohort Analysis
+# Customer Retention & Cohort Analysis
 
 This folder contains screenshots of my SQL project created using MySQL Workbench.
 
-Project Screenshots
+## Project Screenshots
 
 1. Business Performance Analysis
 2. Order Status Analysis
@@ -11,6 +11,9 @@ Project Screenshots
 5. Cohort Retention Analysis
 6. Final Project Summary
 
-Tool Used: MySQL Workbench
-Skill: SQL
-Project Type: Data Analytics
+## Tools & Skills
+
+- **Tool:** MySQL Workbench
+- **Skill:** SQL
+- **Project Type:** Data Analytics
+-

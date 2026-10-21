@@ -29,9 +29,9 @@ Businesses need to understand whether customers return after their first purchas
 The project uses four datasets stored in the `data/` folder.
 
 ## Project Structure
-- `data` — Source datasets
+- `data/` — Source datasets
 - `sql` — SQL queries and analysis scripts
-- `screenshots` — Query results and analysis screenshots
+- `screenshots//` — Query results and analysis screenshots
 
 ## Key Findings
 Add your actual findings from your SQL query results here.

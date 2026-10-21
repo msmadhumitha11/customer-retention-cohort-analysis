@@ -1,21 +1,19 @@
 ## Screenshots
 
-The following screenshots showcase the key SQL queries and results from the Customer Retention & Cohort Analysis project.
+### 01. Best-Selling Product
+![Best-Selling Product](screenshots/01_best_selling_product.png)
 
-### 1. Best-Selling Products
-![Best-Selling Products](screenshots/01_best_selling_products.png)
-
-### 2. Order Status Analysis
+### 02. Order Status Analysis
 ![Order Status Analysis](screenshots/02_order_status.png)
 
-### 3. Category Revenue Analysis
+### 03. Category Revenue Analysis
 ![Category Revenue Analysis](screenshots/03_category_revenue.png)
 
-### 4. Repeat Customer Rate
+### 04. Repeat Customer Rate
 ![Repeat Customer Rate](screenshots/04_repeat_customer_rate.png)
 
-### 5. Cohort Retention Analysis
+### 05. Cohort Retention Analysis
 ![Cohort Retention Analysis](screenshots/05_cohort_retention.png)
 
-### 6. Final Summary
+### 06. Final Summary
 ![Final Summary](screenshots/06_final_summary.png)

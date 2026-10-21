@@ -71,32 +71,6 @@ The datasets were imported into MySQL Workbench for data preparation, business p
 - **Cohort Retention:** Examined customer retention patterns over time.
 - **Data Quality:** Performed checks to assess data consistency and reliability.
 
-## Screenshots
-
-### 1. Best-Selling Product
-
-![Best-Selling Product](https://github.com/msmadhumitha11/customer-retention-cohort-analysis/blob/main/screenshots/screenshots/01_best_selling_product.png)
-
-### 2. Order Status Analysis
-
-![Order Status Analysis](screenshots/screenshots/02_order_status.png)
-
-### 3. Category Revenue Analysis
-
-![Category Revenue Analysis](screenshots/screenshots/03_category_revenue.png)
-
-### 4. Repeat Customer Rate
-
-![Repeat Customer Rate](screenshots/screenshots/04_repeat_customer_rate.png)
-
-### 5. Cohort Retention Analysis
-
-![Cohort Retention Analysis](screenshots/screenshots/05_cohort_retention.png)
-
-### 6. Final Summary
-
-![Final Summary](screenshots/screenshots/06_final_summary.png)
-
 ## Business Recommendations
 
 - Use repeat-purchase analysis to identify opportunities for customer engagement.

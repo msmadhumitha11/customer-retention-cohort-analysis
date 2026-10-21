@@ -71,13 +71,11 @@ The datasets were imported into MySQL Workbench for data preparation, business p
 - **Cohort Retention:** Examined customer retention patterns over time.
 - **Data Quality:** Performed checks to assess data consistency and reliability.
 
-Note: Numerical findings should be added after verifying the actual SQL query results.
-
 ## Screenshots
 
 ### 1. Best-Selling Product
 
-![Best-Selling Product](screenshots/screenshots/01_best_selling_product.png)
+![Best-Selling Product](https://github.com/msmadhumitha11/customer-retention-cohort-analysis/blob/main/screenshots/screenshots/01_best_selling_product.png)
 
 ### 2. Order Status Analysis
 

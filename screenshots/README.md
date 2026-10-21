@@ -1,19 +1,21 @@
-# Customer Retention & Cohort Analysis
+## Screenshots
 
-This folder contains screenshots of my SQL project created using MySQL Workbench.
+The following screenshots demonstrate the SQL analysis and query results.
 
-## Project Screenshots
+### Business Performance Analysis
+![Business Performance Analysis](screenshots/Business%20Performance%20Analysis.png)
 
-1. Business Performance Analysis
-2. Order Status Analysis
-3. Category Revenue Analysis
-4. Repeat Customer Rate
-5. Cohort Retention Analysis
-6. Final Project Summary
+### Order Status Analysis
+![Order Status Analysis](screenshots/Order%20Status%20Analysis.png)
 
-## Tools & Skills
+### Category Revenue Analysis
+![Category Revenue Analysis](screenshots/Category%20Revenue%20Analysis.png)
 
-- **Tool:** MySQL Workbench
-- **Skill:** SQL
-- **Project Type:** Data Analytics
+### Repeat Customer Rate
+![Repeat Customer Rate](screenshots/Repeat%20Customer%20Rate.png)
 
+### Cohort Retention Analysis
+![Cohort Retention Analysis](screenshots/Cohort%20Retention%20Analysis.png)
+
+### Final Project Summary
+![Final Project Summary](screenshots/Final%20Project%20Summary.png)

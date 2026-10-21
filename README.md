@@ -1,65 +1,118 @@
 # Customer Retention & Cohort Analysis
 
 ## Project Overview
-This project analyzes customer purchasing behavior, repeat purchases, customer retention, and cohort performance using SQL.
+
+This project analyzes customer purchasing behavior, repeat purchases, customer retention, and cohort performance using SQL in MySQL Workbench.
+
+The goal is to transform raw datasets into meaningful business insights that help organizations understand customer behavior and make data-driven decisions.
 
 ## Business Problem
-Businesses need to understand whether customers return after their first purchase and how customer retention changes over time.
+
+Businesses need to understand whether customers return after their first purchase, which products and categories perform well, and how customer retention changes over time.
+
+This project uses SQL analysis to explore these questions and identify opportunities to improve customer retention and business performance.
 
 ## Project Objectives
+
 - Analyze overall business performance.
 - Identify repeat customers.
+- Evaluate customer purchasing behavior.
 - Measure customer retention.
-- Perform cohort analysis.
+- Perform customer cohort analysis.
+- Analyze product and category performance.
 - Generate insights to support business decisions.
 
 ## Tools & Technologies
+
 - MySQL Workbench
 - SQL
+- GitHub
 
 ## SQL Concepts Used
+
 - SELECT, WHERE, GROUP BY, ORDER BY
 - Aggregate functions
 - JOINs
 - Common Table Expressions (CTEs)
 - Window functions
 - Date functions
+- Subqueries
+- Data quality checks
 
-## Dataset
-The project uses four datasets stored in the `data/` folder.
+## Dataset Information
+
+This project uses four datasets stored in the `data/` folder.
+
+The datasets were imported into MySQL Workbench for data preparation, business performance analysis, customer analysis, and cohort analysis.
 
 ## Project Structure
+
 - `data/` — Source datasets
-- `sql` — SQL queries and analysis scripts
-- `screenshots//` — Query results and analysis screenshots
+- `SQL/` — SQL queries and analysis scripts
+- `screenshots/` — Analysis screenshots and query results
+- `README.md` — Project documentation
+
+## Business Questions
+
+- What is the overall business performance?
+- Which products generate the highest revenue?
+- How are orders distributed by status?
+- Which product categories contribute the most revenue?
+- How many customers make repeat purchases?
+- How does customer retention change across cohorts?
 
 ## Key Findings
 
-This section summarizes the key findings from the Customer Retention & Cohort Analysis project.
+- **Business Performance:** Analyzed business performance using SQL queries.
+- **Product Performance:** Identified the best-selling product based on the analysis.
+- **Order Status:** Examined the distribution of orders across different statuses.
+- **Category Revenue:** Compared revenue across product categories.
+- **Repeat Customers:** Analyzed repeat purchasing behavior.
+- **Cohort Retention:** Examined customer retention patterns over time.
+- **Data Quality:** Performed checks to assess data consistency and reliability.
 
-## Business Performance
+Note: Numerical findings should be added after verifying the actual SQL query results.
 
-Analyzed overall business performance using SQL queries to understand order trends and revenue patterns.
+## Screenshots
 
-## Customer Behavior
+### 1. Best-Selling Product
 
-Evaluated customer purchasing behavior and repeat purchases to understand customer activity.
+![Best-Selling Product](screenshots/screenshots/01_best_selling_product.png)
 
-## Cohort Analysis
+### 2. Order Status Analysis
 
-Grouped customers based on their first purchase month to analyze customer retention patterns over time.
+![Order Status Analysis](screenshots/screenshots/02_order_status.png)
 
-## Product Performance
+### 3. Category Revenue Analysis
 
-Analyzed product sales to identify top-performing products based on revenue.
+![Category Revenue Analysis](screenshots/screenshots/03_category_revenue.png)
 
-## Data Quality
+### 4. Repeat Customer Rate
 
-Checked data consistency, missing values, and duplicate records to improve data reliability.
+![Repeat Customer Rate](screenshots/screenshots/04_repeat_customer_rate.png)
+
+### 5. Cohort Retention Analysis
+
+![Cohort Retention Analysis](screenshots/screenshots/05_cohort_retention.png)
+
+### 6. Final Summary
+
+![Final Summary](screenshots/screenshots/06_final_summary.png)
 
 ## Business Recommendations
 
-Suggested strategies to improve customer retention, encourage repeat purchases, and support data-driven business decisions.
+- Use repeat-purchase analysis to identify opportunities for customer engagement.
+- Consider targeted retention campaigns to encourage customers to return.
+- Monitor product and category performance to support inventory and sales decisions.
+- Track cohort retention over time to identify changes in customer behavior.
+- Use verified business metrics to evaluate the impact of retention strategies.
 
 ## Conclusion
-This project demonstrates the use of SQL to analyze customer purchasing behavior and retention patterns.
+
+This project demonstrates the practical application of SQL for business performance analysis, customer purchasing behavior, repeat-customer analysis, and cohort-based retention analysis.
+
+It showcases the use of SQL queries to explore datasets, answer business questions, and support data-driven decision-making.
+
+## Author
+
+GitHub: [msmadhumitha11](https://github.com/msmadhumitha11)

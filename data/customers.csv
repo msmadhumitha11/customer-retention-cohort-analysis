@@ -1,0 +1,601 @@
+customer_id,customer_name,signup_date,city,state,acquisition_channel
+1001,Customer_1001,2024-03-06,Pune,Maharashtra,Social Media
+1002,Customer_1002,2025-07-19,Kochi,Kerala,Referral
+1003,Customer_1003,2025-04-23,Coimbatore,Tamil Nadu,Email
+1004,Customer_1004,2024-11-16,Bengaluru,Karnataka,Referral
+1005,Customer_1005,2024-11-12,Kochi,Kerala,Email
+1006,Customer_1006,2025-09-19,Pune,Maharashtra,Referral
+1007,Customer_1007,2024-03-03,Hyderabad,Telangana,Referral
+1008,Customer_1008,2025-05-24,Pune,Maharashtra,Organic
+1009,Customer_1009,2024-05-27,Delhi,Delhi,Referral
+1010,Customer_1010,2024-03-09,Kochi,Kerala,Social Media
+1011,Customer_1011,2025-01-19,Kochi,Kerala,Paid Ads
+1012,Customer_1012,2025-12-14,Mumbai,Maharashtra,Paid Ads
+1013,Customer_1013,2025-06-21,Kochi,Kerala,Email
+1014,Customer_1014,2025-07-10,Mumbai,Maharashtra,Email
+1015,Customer_1015,2025-06-08,Coimbatore,Tamil Nadu,Social Media
+1016,Customer_1016,2025-07-28,Coimbatore,Tamil Nadu,Referral
+1017,Customer_1017,2025-01-10,Bengaluru,Karnataka,Referral
+1018,Customer_1018,2024-04-03,Hyderabad,Telangana,Social Media
+1019,Customer_1019,2025-09-05,Chennai,Tamil Nadu,Organic
+1020,Customer_1020,2024-11-25,Bengaluru,Karnataka,Organic
+1021,Customer_1021,2024-12-31,Mumbai,Maharashtra,Referral
+1022,Customer_1022,2024-09-28,Mumbai,Maharashtra,Social Media
+1023,Customer_1023,2024-05-13,Bengaluru,Karnataka,Email
+1024,Customer_1024,2025-11-08,Mumbai,Maharashtra,Social Media
+1025,Customer_1025,2025-07-25,Pune,Maharashtra,Email
+1026,Customer_1026,2025-04-15,Bengaluru,Karnataka,Social Media
+1027,Customer_1027,2024-10-21,Hyderabad,Telangana,Referral
+1028,Customer_1028,2025-08-24,Hyderabad,Telangana,Organic
+1029,Customer_1029,2025-02-02,Pune,Maharashtra,Paid Ads
+1030,Customer_1030,2024-11-20,Hyderabad,Telangana,Referral
+1031,Customer_1031,2024-11-25,Coimbatore,Tamil Nadu,Email
+1032,Customer_1032,2024-06-15,Hyderabad,Telangana,Referral
+1033,Customer_1033,2024-03-08,Mumbai,Maharashtra,Organic
+1034,Customer_1034,2025-02-09,Mumbai,Maharashtra,Social Media
+1035,Customer_1035,2025-10-11,Bengaluru,Karnataka,Organic
+1036,Customer_1036,2024-02-16,Coimbatore,Tamil Nadu,Organic
+1037,Customer_1037,2025-09-19,Bengaluru,Karnataka,Paid Ads
+1038,Customer_1038,2025-08-27,Hyderabad,Telangana,Referral
+1039,Customer_1039,2024-07-21,Kochi,Kerala,Referral
+1040,Customer_1040,2025-04-06,Delhi,Delhi,Referral
+1041,Customer_1041,2024-04-30,Coimbatore,Tamil Nadu,Referral
+1042,Customer_1042,2025-07-08,Delhi,Delhi,Referral
+1043,Customer_1043,2025-05-27,Kochi,Kerala,Organic
+1044,Customer_1044,2024-09-16,Mumbai,Maharashtra,Organic
+1045,Customer_1045,2024-02-19,Kochi,Kerala,Paid Ads
+1046,Customer_1046,2025-12-10,Hyderabad,Telangana,Referral
+1047,Customer_1047,2024-11-21,Mumbai,Maharashtra,Organic
+1048,Customer_1048,2025-10-14,Pune,Maharashtra,Paid Ads
+1049,Customer_1049,2025-05-10,Delhi,Delhi,Paid Ads
+1050,Customer_1050,2025-07-22,Kochi,Kerala,Organic
+1051,Customer_1051,2025-07-09,Mumbai,Maharashtra,Social Media
+1052,Customer_1052,2024-05-22,Coimbatore,Tamil Nadu,Email
+1053,Customer_1053,2024-09-23,Bengaluru,Karnataka,Paid Ads
+1054,Customer_1054,2024-12-07,Kochi,Kerala,Organic
+1055,Customer_1055,2024-12-29,Pune,Maharashtra,Referral
+1056,Customer_1056,2024-02-02,Pune,Maharashtra,Social Media
+1057,Customer_1057,2025-02-03,Kochi,Kerala,Referral
+1058,Customer_1058,2024-04-22,Coimbatore,Tamil Nadu,Social Media
+1059,Customer_1059,2025-06-27,Chennai,Tamil Nadu,Paid Ads
+1060,Customer_1060,2025-05-14,Hyderabad,Telangana,Social Media
+1061,Customer_1061,2025-11-05,Bengaluru,Karnataka,Organic
+1062,Customer_1062,2025-06-28,Coimbatore,Tamil Nadu,Email
+1063,Customer_1063,2024-09-25,Chennai,Tamil Nadu,Organic
+1064,Customer_1064,2025-12-08,Bengaluru,Karnataka,Organic
+1065,Customer_1065,2024-10-27,Pune,Maharashtra,Social Media
+1066,Customer_1066,2024-08-26,Coimbatore,Tamil Nadu,Referral
+1067,Customer_1067,2025-10-23,Pune,Maharashtra,Referral
+1068,Customer_1068,2024-09-27,Kochi,Kerala,Email
+1069,Customer_1069,2024-02-25,Delhi,Delhi,Social Media
+1070,Customer_1070,2024-12-09,Bengaluru,Karnataka,Social Media
+1071,Customer_1071,2025-08-04,Delhi,Delhi,Organic
+1072,Customer_1072,2024-05-18,Pune,Maharashtra,Paid Ads
+1073,Customer_1073,2024-12-04,Coimbatore,Tamil Nadu,Email
+1074,Customer_1074,2024-04-04,Chennai,Tamil Nadu,Referral
+1075,Customer_1075,2025-05-16,Pune,Maharashtra,Paid Ads
+1076,Customer_1076,2024-12-13,Coimbatore,Tamil Nadu,Social Media
+1077,Customer_1077,2024-08-29,Pune,Maharashtra,Email
+1078,Customer_1078,2024-06-14,Chennai,Tamil Nadu,Social Media
+1079,Customer_1079,2025-02-16,Pune,Maharashtra,Organic
+1080,Customer_1080,2025-05-04,Delhi,Delhi,Social Media
+1081,Customer_1081,2025-11-18,Coimbatore,Tamil Nadu,Organic
+1082,Customer_1082,2024-11-15,Bengaluru,Karnataka,Organic
+1083,Customer_1083,2024-04-27,Delhi,Delhi,Organic
+1084,Customer_1084,2025-08-31,Delhi,Delhi,Social Media
+1085,Customer_1085,2025-04-05,Bengaluru,Karnataka,Paid Ads
+1086,Customer_1086,2025-05-26,Kochi,Kerala,Social Media
+1087,Customer_1087,2024-03-12,Mumbai,Maharashtra,Social Media
+1088,Customer_1088,2024-08-16,Pune,Maharashtra,Email
+1089,Customer_1089,2025-07-15,Mumbai,Maharashtra,Referral
+1090,Customer_1090,2025-08-31,Kochi,Kerala,Paid Ads
+1091,Customer_1091,2024-11-14,Delhi,Delhi,Social Media
+1092,Customer_1092,2025-08-11,Kochi,Kerala,Email
+1093,Customer_1093,2025-09-07,Delhi,Delhi,Organic
+1094,Customer_1094,2024-10-10,Delhi,Delhi,Social Media
+1095,Customer_1095,2025-10-18,Chennai,Tamil Nadu,Email
+1096,Customer_1096,2024-07-29,Hyderabad,Telangana,Paid Ads
+1097,Customer_1097,2024-06-24,Coimbatore,Tamil Nadu,Referral
+1098,Customer_1098,2025-05-13,Pune,Maharashtra,Paid Ads
+1099,Customer_1099,2025-04-10,Chennai,Tamil Nadu,Paid Ads
+1100,Customer_1100,2024-04-12,Chennai,Tamil Nadu,Social Media
+1101,Customer_1101,2025-08-31,Pune,Maharashtra,Organic
+1102,Customer_1102,2024-05-26,Pune,Maharashtra,Social Media
+1103,Customer_1103,2025-08-11,Bengaluru,Karnataka,Organic
+1104,Customer_1104,2024-01-06,Bengaluru,Karnataka,Referral
+1105,Customer_1105,2025-08-05,Bengaluru,Karnataka,Social Media
+1106,Customer_1106,2025-07-29,Pune,Maharashtra,Paid Ads
+1107,Customer_1107,2025-07-24,Chennai,Tamil Nadu,Referral
+1108,Customer_1108,2025-05-01,Pune,Maharashtra,Referral
+1109,Customer_1109,2024-12-10,Mumbai,Maharashtra,Social Media
+1110,Customer_1110,2025-05-30,Mumbai,Maharashtra,Social Media
+1111,Customer_1111,2024-07-21,Coimbatore,Tamil Nadu,Email
+1112,Customer_1112,2025-07-24,Pune,Maharashtra,Paid Ads
+1113,Customer_1113,2025-02-10,Coimbatore,Tamil Nadu,Referral
+1114,Customer_1114,2024-12-01,Kochi,Kerala,Email
+1115,Customer_1115,2025-01-04,Delhi,Delhi,Referral
+1116,Customer_1116,2025-02-19,Kochi,Kerala,Organic
+1117,Customer_1117,2024-01-28,Pune,Maharashtra,Paid Ads
+1118,Customer_1118,2024-04-12,Mumbai,Maharashtra,Organic
+1119,Customer_1119,2024-06-28,Bengaluru,Karnataka,Paid Ads
+1120,Customer_1120,2024-03-24,Pune,Maharashtra,Email
+1121,Customer_1121,2024-11-17,Bengaluru,Karnataka,Paid Ads
+1122,Customer_1122,2025-05-03,Delhi,Delhi,Social Media
+1123,Customer_1123,2025-04-23,Kochi,Kerala,Organic
+1124,Customer_1124,2024-12-10,Chennai,Tamil Nadu,Email
+1125,Customer_1125,2025-09-17,Kochi,Kerala,Organic
+1126,Customer_1126,2025-02-17,Chennai,Tamil Nadu,Organic
+1127,Customer_1127,2024-02-27,Coimbatore,Tamil Nadu,Organic
+1128,Customer_1128,2025-07-13,Chennai,Tamil Nadu,Organic
+1129,Customer_1129,2025-02-24,Mumbai,Maharashtra,Social Media
+1130,Customer_1130,2025-04-08,Coimbatore,Tamil Nadu,Paid Ads
+1131,Customer_1131,2025-02-17,Coimbatore,Tamil Nadu,Social Media
+1132,Customer_1132,2025-02-08,Mumbai,Maharashtra,Organic
+1133,Customer_1133,2024-03-07,Delhi,Delhi,Organic
+1134,Customer_1134,2025-02-12,Kochi,Kerala,Social Media
+1135,Customer_1135,2025-08-04,Bengaluru,Karnataka,Organic
+1136,Customer_1136,2024-08-10,Coimbatore,Tamil Nadu,Paid Ads
+1137,Customer_1137,2025-03-16,Coimbatore,Tamil Nadu,Organic
+1138,Customer_1138,2024-01-23,Hyderabad,Telangana,Social Media
+1139,Customer_1139,2024-09-11,Coimbatore,Tamil Nadu,Social Media
+1140,Customer_1140,2024-11-15,Delhi,Delhi,Social Media
+1141,Customer_1141,2025-12-19,Kochi,Kerala,Organic
+1142,Customer_1142,2024-06-05,Kochi,Kerala,Organic
+1143,Customer_1143,2024-07-21,Coimbatore,Tamil Nadu,Referral
+1144,Customer_1144,2024-10-25,Hyderabad,Telangana,Organic
+1145,Customer_1145,2025-12-26,Kochi,Kerala,Paid Ads
+1146,Customer_1146,2025-09-15,Hyderabad,Telangana,Social Media
+1147,Customer_1147,2024-01-26,Pune,Maharashtra,Social Media
+1148,Customer_1148,2024-06-20,Hyderabad,Telangana,Social Media
+1149,Customer_1149,2025-08-23,Hyderabad,Telangana,Referral
+1150,Customer_1150,2024-02-12,Bengaluru,Karnataka,Referral
+1151,Customer_1151,2025-09-17,Delhi,Delhi,Organic
+1152,Customer_1152,2024-07-24,Bengaluru,Karnataka,Social Media
+1153,Customer_1153,2025-11-01,Chennai,Tamil Nadu,Organic
+1154,Customer_1154,2024-08-02,Delhi,Delhi,Social Media
+1155,Customer_1155,2024-11-13,Pune,Maharashtra,Paid Ads
+1156,Customer_1156,2025-04-28,Mumbai,Maharashtra,Organic
+1157,Customer_1157,2024-04-02,Coimbatore,Tamil Nadu,Social Media
+1158,Customer_1158,2025-02-11,Mumbai,Maharashtra,Email
+1159,Customer_1159,2025-01-04,Bengaluru,Karnataka,Organic
+1160,Customer_1160,2025-07-27,Coimbatore,Tamil Nadu,Social Media
+1161,Customer_1161,2025-12-29,Bengaluru,Karnataka,Referral
+1162,Customer_1162,2025-04-30,Pune,Maharashtra,Organic
+1163,Customer_1163,2024-10-26,Delhi,Delhi,Organic
+1164,Customer_1164,2024-10-24,Delhi,Delhi,Organic
+1165,Customer_1165,2024-11-01,Hyderabad,Telangana,Email
+1166,Customer_1166,2025-08-18,Kochi,Kerala,Organic
+1167,Customer_1167,2024-08-22,Pune,Maharashtra,Organic
+1168,Customer_1168,2024-05-02,Mumbai,Maharashtra,Organic
+1169,Customer_1169,2024-09-01,Bengaluru,Karnataka,Organic
+1170,Customer_1170,2024-01-17,Mumbai,Maharashtra,Paid Ads
+1171,Customer_1171,2024-03-18,Coimbatore,Tamil Nadu,Organic
+1172,Customer_1172,2024-03-06,Delhi,Delhi,Paid Ads
+1173,Customer_1173,2025-07-18,Chennai,Tamil Nadu,Paid Ads
+1174,Customer_1174,2025-06-12,Coimbatore,Tamil Nadu,Referral
+1175,Customer_1175,2025-05-24,Kochi,Kerala,Organic
+1176,Customer_1176,2024-12-03,Delhi,Delhi,Referral
+1177,Customer_1177,2025-06-08,Mumbai,Maharashtra,Paid Ads
+1178,Customer_1178,2024-04-27,Chennai,Tamil Nadu,Organic
+1179,Customer_1179,2025-10-20,Hyderabad,Telangana,Referral
+1180,Customer_1180,2025-01-01,Kochi,Kerala,Referral
+1181,Customer_1181,2025-11-16,Delhi,Delhi,Organic
+1182,Customer_1182,2024-04-21,Coimbatore,Tamil Nadu,Email
+1183,Customer_1183,2024-12-29,Chennai,Tamil Nadu,Social Media
+1184,Customer_1184,2025-05-24,Chennai,Tamil Nadu,Paid Ads
+1185,Customer_1185,2024-12-28,Mumbai,Maharashtra,Email
+1186,Customer_1186,2024-11-22,Pune,Maharashtra,Social Media
+1187,Customer_1187,2024-05-01,Chennai,Tamil Nadu,Referral
+1188,Customer_1188,2024-10-05,Coimbatore,Tamil Nadu,Social Media
+1189,Customer_1189,2024-06-23,Pune,Maharashtra,Referral
+1190,Customer_1190,2024-08-08,Chennai,Tamil Nadu,Paid Ads
+1191,Customer_1191,2025-05-14,Chennai,Tamil Nadu,Organic
+1192,Customer_1192,2025-04-05,Mumbai,Maharashtra,Social Media
+1193,Customer_1193,2025-03-19,Coimbatore,Tamil Nadu,Social Media
+1194,Customer_1194,2024-09-21,Kochi,Kerala,Organic
+1195,Customer_1195,2025-12-02,Mumbai,Maharashtra,Organic
+1196,Customer_1196,2024-03-05,Hyderabad,Telangana,Social Media
+1197,Customer_1197,2024-09-07,Delhi,Delhi,Organic
+1198,Customer_1198,2024-03-27,Mumbai,Maharashtra,Organic
+1199,Customer_1199,2024-09-04,Hyderabad,Telangana,Referral
+1200,Customer_1200,2025-12-04,Mumbai,Maharashtra,Referral
+1201,Customer_1201,2024-09-24,Chennai,Tamil Nadu,Referral
+1202,Customer_1202,2025-10-26,Hyderabad,Telangana,Social Media
+1203,Customer_1203,2024-12-27,Pune,Maharashtra,Email
+1204,Customer_1204,2025-05-26,Delhi,Delhi,Paid Ads
+1205,Customer_1205,2024-11-30,Coimbatore,Tamil Nadu,Organic
+1206,Customer_1206,2024-07-13,Kochi,Kerala,Organic
+1207,Customer_1207,2025-07-12,Pune,Maharashtra,Paid Ads
+1208,Customer_1208,2025-12-09,Chennai,Tamil Nadu,Organic
+1209,Customer_1209,2024-07-11,Mumbai,Maharashtra,Paid Ads
+1210,Customer_1210,2025-07-23,Delhi,Delhi,Email
+1211,Customer_1211,2024-07-09,Chennai,Tamil Nadu,Organic
+1212,Customer_1212,2025-06-08,Delhi,Delhi,Organic
+1213,Customer_1213,2025-07-30,Coimbatore,Tamil Nadu,Email
+1214,Customer_1214,2024-11-24,Hyderabad,Telangana,Paid Ads
+1215,Customer_1215,2025-06-22,Kochi,Kerala,Organic
+1216,Customer_1216,2024-07-18,Kochi,Kerala,Email
+1217,Customer_1217,2024-02-27,Chennai,Tamil Nadu,Email
+1218,Customer_1218,2024-03-11,Chennai,Tamil Nadu,Paid Ads
+1219,Customer_1219,2024-11-22,Coimbatore,Tamil Nadu,Paid Ads
+1220,Customer_1220,2025-10-21,Delhi,Delhi,Organic
+1221,Customer_1221,2024-04-03,Chennai,Tamil Nadu,Organic
+1222,Customer_1222,2024-11-29,Coimbatore,Tamil Nadu,Paid Ads
+1223,Customer_1223,2025-05-29,Bengaluru,Karnataka,Social Media
+1224,Customer_1224,2024-05-27,Coimbatore,Tamil Nadu,Paid Ads
+1225,Customer_1225,2025-06-11,Pune,Maharashtra,Referral
+1226,Customer_1226,2024-08-11,Chennai,Tamil Nadu,Organic
+1227,Customer_1227,2025-08-14,Coimbatore,Tamil Nadu,Paid Ads
+1228,Customer_1228,2025-02-27,Delhi,Delhi,Organic
+1229,Customer_1229,2025-02-03,Kochi,Kerala,Referral
+1230,Customer_1230,2024-05-09,Chennai,Tamil Nadu,Organic
+1231,Customer_1231,2024-12-04,Bengaluru,Karnataka,Paid Ads
+1232,Customer_1232,2025-09-18,Bengaluru,Karnataka,Paid Ads
+1233,Customer_1233,2024-01-15,Mumbai,Maharashtra,Social Media
+1234,Customer_1234,2025-07-08,Bengaluru,Karnataka,Paid Ads
+1235,Customer_1235,2024-12-26,Kochi,Kerala,Referral
+1236,Customer_1236,2025-06-09,Kochi,Kerala,Paid Ads
+1237,Customer_1237,2025-04-29,Kochi,Kerala,Referral
+1238,Customer_1238,2024-11-11,Bengaluru,Karnataka,Email
+1239,Customer_1239,2024-08-13,Chennai,Tamil Nadu,Social Media
+1240,Customer_1240,2025-04-03,Delhi,Delhi,Paid Ads
+1241,Customer_1241,2024-04-12,Hyderabad,Telangana,Organic
+1242,Customer_1242,2025-03-02,Coimbatore,Tamil Nadu,Referral
+1243,Customer_1243,2024-03-10,Delhi,Delhi,Paid Ads
+1244,Customer_1244,2025-04-20,Chennai,Tamil Nadu,Social Media
+1245,Customer_1245,2025-04-04,Chennai,Tamil Nadu,Organic
+1246,Customer_1246,2024-03-02,Chennai,Tamil Nadu,Email
+1247,Customer_1247,2025-07-07,Bengaluru,Karnataka,Social Media
+1248,Customer_1248,2024-10-30,Chennai,Tamil Nadu,Paid Ads
+1249,Customer_1249,2025-07-29,Kochi,Kerala,Organic
+1250,Customer_1250,2024-01-31,Pune,Maharashtra,Email
+1251,Customer_1251,2024-05-11,Delhi,Delhi,Organic
+1252,Customer_1252,2024-12-27,Kochi,Kerala,Organic
+1253,Customer_1253,2024-05-17,Delhi,Delhi,Referral
+1254,Customer_1254,2024-08-29,Bengaluru,Karnataka,Email
+1255,Customer_1255,2025-04-27,Hyderabad,Telangana,Organic
+1256,Customer_1256,2024-04-15,Kochi,Kerala,Social Media
+1257,Customer_1257,2025-05-10,Bengaluru,Karnataka,Referral
+1258,Customer_1258,2024-03-16,Chennai,Tamil Nadu,Referral
+1259,Customer_1259,2024-05-08,Coimbatore,Tamil Nadu,Social Media
+1260,Customer_1260,2025-03-05,Kochi,Kerala,Paid Ads
+1261,Customer_1261,2025-08-03,Delhi,Delhi,Referral
+1262,Customer_1262,2024-05-04,Delhi,Delhi,Referral
+1263,Customer_1263,2024-08-07,Chennai,Tamil Nadu,Referral
+1264,Customer_1264,2025-11-07,Kochi,Kerala,Paid Ads
+1265,Customer_1265,2025-12-24,Kochi,Kerala,Organic
+1266,Customer_1266,2025-02-28,Coimbatore,Tamil Nadu,Email
+1267,Customer_1267,2024-11-22,Kochi,Kerala,Referral
+1268,Customer_1268,2024-09-10,Kochi,Kerala,Referral
+1269,Customer_1269,2025-03-23,Mumbai,Maharashtra,Organic
+1270,Customer_1270,2025-03-07,Chennai,Tamil Nadu,Organic
+1271,Customer_1271,2024-08-03,Mumbai,Maharashtra,Referral
+1272,Customer_1272,2024-01-17,Bengaluru,Karnataka,Organic
+1273,Customer_1273,2024-04-20,Chennai,Tamil Nadu,Email
+1274,Customer_1274,2025-12-01,Chennai,Tamil Nadu,Social Media
+1275,Customer_1275,2024-11-01,Coimbatore,Tamil Nadu,Referral
+1276,Customer_1276,2024-12-18,Pune,Maharashtra,Email
+1277,Customer_1277,2024-12-07,Pune,Maharashtra,Social Media
+1278,Customer_1278,2025-07-26,Coimbatore,Tamil Nadu,Social Media
+1279,Customer_1279,2024-02-17,Pune,Maharashtra,Paid Ads
+1280,Customer_1280,2024-03-01,Coimbatore,Tamil Nadu,Paid Ads
+1281,Customer_1281,2024-07-20,Chennai,Tamil Nadu,Social Media
+1282,Customer_1282,2024-12-21,Kochi,Kerala,Paid Ads
+1283,Customer_1283,2025-05-05,Mumbai,Maharashtra,Email
+1284,Customer_1284,2024-12-24,Bengaluru,Karnataka,Social Media
+1285,Customer_1285,2024-11-18,Kochi,Kerala,Organic
+1286,Customer_1286,2025-11-16,Coimbatore,Tamil Nadu,Social Media
+1287,Customer_1287,2024-04-27,Chennai,Tamil Nadu,Social Media
+1288,Customer_1288,2025-02-21,Bengaluru,Karnataka,Organic
+1289,Customer_1289,2025-01-31,Chennai,Tamil Nadu,Organic
+1290,Customer_1290,2024-12-12,Hyderabad,Telangana,Paid Ads
+1291,Customer_1291,2025-08-13,Chennai,Tamil Nadu,Social Media
+1292,Customer_1292,2024-07-14,Coimbatore,Tamil Nadu,Email
+1293,Customer_1293,2025-11-28,Pune,Maharashtra,Organic
+1294,Customer_1294,2024-08-30,Delhi,Delhi,Organic
+1295,Customer_1295,2025-02-02,Coimbatore,Tamil Nadu,Referral
+1296,Customer_1296,2025-01-15,Pune,Maharashtra,Email
+1297,Customer_1297,2025-09-13,Pune,Maharashtra,Organic
+1298,Customer_1298,2024-11-16,Chennai,Tamil Nadu,Organic
+1299,Customer_1299,2024-07-27,Chennai,Tamil Nadu,Organic
+1300,Customer_1300,2024-01-16,Pune,Maharashtra,Paid Ads
+1301,Customer_1301,2024-09-22,Chennai,Tamil Nadu,Social Media
+1302,Customer_1302,2025-08-27,Chennai,Tamil Nadu,Organic
+1303,Customer_1303,2024-01-08,Bengaluru,Karnataka,Organic
+1304,Customer_1304,2025-10-17,Delhi,Delhi,Social Media
+1305,Customer_1305,2025-01-31,Mumbai,Maharashtra,Email
+1306,Customer_1306,2024-04-12,Coimbatore,Tamil Nadu,Paid Ads
+1307,Customer_1307,2024-08-08,Mumbai,Maharashtra,Social Media
+1308,Customer_1308,2025-02-09,Bengaluru,Karnataka,Organic
+1309,Customer_1309,2024-08-18,Hyderabad,Telangana,Organic
+1310,Customer_1310,2024-03-20,Chennai,Tamil Nadu,Social Media
+1311,Customer_1311,2025-05-01,Kochi,Kerala,Referral
+1312,Customer_1312,2025-05-06,Bengaluru,Karnataka,Referral
+1313,Customer_1313,2024-03-27,Mumbai,Maharashtra,Email
+1314,Customer_1314,2024-07-24,Delhi,Delhi,Email
+1315,Customer_1315,2024-06-27,Pune,Maharashtra,Email
+1316,Customer_1316,2025-04-27,Mumbai,Maharashtra,Email
+1317,Customer_1317,2025-06-17,Pune,Maharashtra,Organic
+1318,Customer_1318,2025-06-15,Kochi,Kerala,Organic
+1319,Customer_1319,2025-11-17,Hyderabad,Telangana,Social Media
+1320,Customer_1320,2025-07-15,Coimbatore,Tamil Nadu,Paid Ads
+1321,Customer_1321,2024-08-22,Kochi,Kerala,Organic
+1322,Customer_1322,2024-03-19,Pune,Maharashtra,Referral
+1323,Customer_1323,2025-03-25,Mumbai,Maharashtra,Paid Ads
+1324,Customer_1324,2025-10-31,Bengaluru,Karnataka,Paid Ads
+1325,Customer_1325,2025-12-13,Bengaluru,Karnataka,Organic
+1326,Customer_1326,2024-06-17,Delhi,Delhi,Organic
+1327,Customer_1327,2024-06-21,Pune,Maharashtra,Organic
+1328,Customer_1328,2024-01-28,Hyderabad,Telangana,Referral
+1329,Customer_1329,2024-04-13,Mumbai,Maharashtra,Paid Ads
+1330,Customer_1330,2025-02-09,Pune,Maharashtra,Referral
+1331,Customer_1331,2025-02-03,Pune,Maharashtra,Social Media
+1332,Customer_1332,2024-09-28,Coimbatore,Tamil Nadu,Social Media
+1333,Customer_1333,2024-08-14,Hyderabad,Telangana,Social Media
+1334,Customer_1334,2025-08-29,Coimbatore,Tamil Nadu,Referral
+1335,Customer_1335,2024-12-02,Mumbai,Maharashtra,Referral
+1336,Customer_1336,2025-08-13,Delhi,Delhi,Organic
+1337,Customer_1337,2025-12-05,Bengaluru,Karnataka,Email
+1338,Customer_1338,2024-08-19,Bengaluru,Karnataka,Organic
+1339,Customer_1339,2024-05-28,Mumbai,Maharashtra,Email
+1340,Customer_1340,2025-11-27,Pune,Maharashtra,Organic
+1341,Customer_1341,2025-04-09,Coimbatore,Tamil Nadu,Organic
+1342,Customer_1342,2024-07-31,Mumbai,Maharashtra,Referral
+1343,Customer_1343,2025-03-30,Delhi,Delhi,Organic
+1344,Customer_1344,2025-01-11,Mumbai,Maharashtra,Social Media
+1345,Customer_1345,2025-10-23,Bengaluru,Karnataka,Social Media
+1346,Customer_1346,2024-07-06,Chennai,Tamil Nadu,Organic
+1347,Customer_1347,2025-12-25,Delhi,Delhi,Referral
+1348,Customer_1348,2025-11-15,Bengaluru,Karnataka,Referral
+1349,Customer_1349,2024-05-12,Delhi,Delhi,Referral
+1350,Customer_1350,2024-04-30,Hyderabad,Telangana,Social Media
+1351,Customer_1351,2025-01-24,Chennai,Tamil Nadu,Paid Ads
+1352,Customer_1352,2024-02-02,Hyderabad,Telangana,Organic
+1353,Customer_1353,2024-08-06,Pune,Maharashtra,Organic
+1354,Customer_1354,2024-11-14,Mumbai,Maharashtra,Organic
+1355,Customer_1355,2025-12-09,Kochi,Kerala,Email
+1356,Customer_1356,2025-12-26,Pune,Maharashtra,Email
+1357,Customer_1357,2024-04-20,Mumbai,Maharashtra,Referral
+1358,Customer_1358,2025-10-13,Coimbatore,Tamil Nadu,Paid Ads
+1359,Customer_1359,2024-03-07,Delhi,Delhi,Social Media
+1360,Customer_1360,2025-07-01,Mumbai,Maharashtra,Paid Ads
+1361,Customer_1361,2025-09-10,Bengaluru,Karnataka,Paid Ads
+1362,Customer_1362,2025-10-13,Mumbai,Maharashtra,Social Media
+1363,Customer_1363,2024-06-12,Kochi,Kerala,Organic
+1364,Customer_1364,2025-10-15,Bengaluru,Karnataka,Organic
+1365,Customer_1365,2024-03-25,Delhi,Delhi,Email
+1366,Customer_1366,2025-01-14,Pune,Maharashtra,Social Media
+1367,Customer_1367,2024-12-09,Pune,Maharashtra,Email
+1368,Customer_1368,2024-08-18,Hyderabad,Telangana,Organic
+1369,Customer_1369,2024-01-17,Delhi,Delhi,Paid Ads
+1370,Customer_1370,2025-07-18,Chennai,Tamil Nadu,Organic
+1371,Customer_1371,2024-09-02,Hyderabad,Telangana,Organic
+1372,Customer_1372,2025-04-28,Mumbai,Maharashtra,Organic
+1373,Customer_1373,2024-10-26,Mumbai,Maharashtra,Organic
+1374,Customer_1374,2024-09-30,Mumbai,Maharashtra,Email
+1375,Customer_1375,2025-10-09,Bengaluru,Karnataka,Social Media
+1376,Customer_1376,2024-03-10,Bengaluru,Karnataka,Paid Ads
+1377,Customer_1377,2025-06-22,Chennai,Tamil Nadu,Social Media
+1378,Customer_1378,2025-06-29,Pune,Maharashtra,Social Media
+1379,Customer_1379,2024-10-04,Hyderabad,Telangana,Paid Ads
+1380,Customer_1380,2024-07-10,Pune,Maharashtra,Organic
+1381,Customer_1381,2024-01-04,Pune,Maharashtra,Email
+1382,Customer_1382,2025-11-15,Coimbatore,Tamil Nadu,Referral
+1383,Customer_1383,2025-11-23,Pune,Maharashtra,Referral
+1384,Customer_1384,2024-06-25,Coimbatore,Tamil Nadu,Social Media
+1385,Customer_1385,2024-01-24,Pune,Maharashtra,Organic
+1386,Customer_1386,2024-03-30,Coimbatore,Tamil Nadu,Email
+1387,Customer_1387,2024-02-19,Pune,Maharashtra,Social Media
+1388,Customer_1388,2025-08-30,Hyderabad,Telangana,Organic
+1389,Customer_1389,2025-10-13,Bengaluru,Karnataka,Social Media
+1390,Customer_1390,2024-04-22,Kochi,Kerala,Referral
+1391,Customer_1391,2025-06-29,Hyderabad,Telangana,Paid Ads
+1392,Customer_1392,2024-05-11,Pune,Maharashtra,Referral
+1393,Customer_1393,2024-09-25,Bengaluru,Karnataka,Referral
+1394,Customer_1394,2025-03-14,Mumbai,Maharashtra,Organic
+1395,Customer_1395,2025-06-10,Pune,Maharashtra,Email
+1396,Customer_1396,2025-10-01,Coimbatore,Tamil Nadu,Social Media
+1397,Customer_1397,2024-02-02,Pune,Maharashtra,Paid Ads
+1398,Customer_1398,2024-05-23,Hyderabad,Telangana,Organic
+1399,Customer_1399,2024-07-24,Delhi,Delhi,Email
+1400,Customer_1400,2024-08-14,Pune,Maharashtra,Social Media
+1401,Customer_1401,2025-12-30,Kochi,Kerala,Organic
+1402,Customer_1402,2025-07-22,Coimbatore,Tamil Nadu,Social Media
+1403,Customer_1403,2024-08-22,Pune,Maharashtra,Organic
+1404,Customer_1404,2025-12-11,Delhi,Delhi,Organic
+1405,Customer_1405,2024-12-30,Bengaluru,Karnataka,Paid Ads
+1406,Customer_1406,2025-01-01,Delhi,Delhi,Social Media
+1407,Customer_1407,2024-11-13,Kochi,Kerala,Email
+1408,Customer_1408,2024-04-15,Pune,Maharashtra,Social Media
+1409,Customer_1409,2025-11-14,Coimbatore,Tamil Nadu,Referral
+1410,Customer_1410,2024-01-11,Pune,Maharashtra,Social Media
+1411,Customer_1411,2024-05-07,Hyderabad,Telangana,Paid Ads
+1412,Customer_1412,2024-06-16,Kochi,Kerala,Paid Ads
+1413,Customer_1413,2024-07-23,Bengaluru,Karnataka,Social Media
+1414,Customer_1414,2024-04-06,Hyderabad,Telangana,Email
+1415,Customer_1415,2024-01-14,Pune,Maharashtra,Social Media
+1416,Customer_1416,2025-05-10,Kochi,Kerala,Organic
+1417,Customer_1417,2025-12-09,Mumbai,Maharashtra,Paid Ads
+1418,Customer_1418,2024-03-30,Mumbai,Maharashtra,Referral
+1419,Customer_1419,2024-08-04,Chennai,Tamil Nadu,Organic
+1420,Customer_1420,2025-01-05,Chennai,Tamil Nadu,Social Media
+1421,Customer_1421,2025-11-09,Chennai,Tamil Nadu,Email
+1422,Customer_1422,2025-05-22,Chennai,Tamil Nadu,Referral
+1423,Customer_1423,2025-07-14,Kochi,Kerala,Email
+1424,Customer_1424,2025-02-28,Kochi,Kerala,Paid Ads
+1425,Customer_1425,2024-10-31,Kochi,Kerala,Paid Ads
+1426,Customer_1426,2024-05-26,Chennai,Tamil Nadu,Social Media
+1427,Customer_1427,2025-09-23,Chennai,Tamil Nadu,Email
+1428,Customer_1428,2025-08-10,Hyderabad,Telangana,Social Media
+1429,Customer_1429,2024-01-19,Pune,Maharashtra,Referral
+1430,Customer_1430,2025-06-06,Hyderabad,Telangana,Social Media
+1431,Customer_1431,2024-03-02,Mumbai,Maharashtra,Paid Ads
+1432,Customer_1432,2025-06-24,Bengaluru,Karnataka,Referral
+1433,Customer_1433,2025-08-26,Coimbatore,Tamil Nadu,Paid Ads
+1434,Customer_1434,2024-04-05,Hyderabad,Telangana,Email
+1435,Customer_1435,2024-11-13,Chennai,Tamil Nadu,Social Media
+1436,Customer_1436,2024-03-31,Coimbatore,Tamil Nadu,Paid Ads
+1437,Customer_1437,2025-02-18,Delhi,Delhi,Social Media
+1438,Customer_1438,2025-11-09,Chennai,Tamil Nadu,Social Media
+1439,Customer_1439,2024-02-29,Mumbai,Maharashtra,Social Media
+1440,Customer_1440,2024-10-17,Kochi,Kerala,Organic
+1441,Customer_1441,2025-12-12,Coimbatore,Tamil Nadu,Organic
+1442,Customer_1442,2024-08-07,Kochi,Kerala,Paid Ads
+1443,Customer_1443,2024-04-06,Mumbai,Maharashtra,Paid Ads
+1444,Customer_1444,2024-12-23,Hyderabad,Telangana,Paid Ads
+1445,Customer_1445,2025-01-06,Coimbatore,Tamil Nadu,Organic
+1446,Customer_1446,2025-04-29,Bengaluru,Karnataka,Social Media
+1447,Customer_1447,2024-08-17,Bengaluru,Karnataka,Organic
+1448,Customer_1448,2025-11-29,Pune,Maharashtra,Referral
+1449,Customer_1449,2025-01-15,Coimbatore,Tamil Nadu,Referral
+1450,Customer_1450,2024-07-28,Chennai,Tamil Nadu,Organic
+1451,Customer_1451,2025-12-02,Pune,Maharashtra,Paid Ads
+1452,Customer_1452,2025-11-07,Hyderabad,Telangana,Organic
+1453,Customer_1453,2024-12-30,Pune,Maharashtra,Organic
+1454,Customer_1454,2024-01-19,Delhi,Delhi,Organic
+1455,Customer_1455,2025-03-12,Chennai,Tamil Nadu,Social Media
+1456,Customer_1456,2025-02-09,Delhi,Delhi,Paid Ads
+1457,Customer_1457,2024-04-18,Mumbai,Maharashtra,Email
+1458,Customer_1458,2025-04-08,Kochi,Kerala,Organic
+1459,Customer_1459,2025-09-06,Mumbai,Maharashtra,Paid Ads
+1460,Customer_1460,2024-03-18,Hyderabad,Telangana,Referral
+1461,Customer_1461,2025-06-12,Kochi,Kerala,Email
+1462,Customer_1462,2024-04-12,Coimbatore,Tamil Nadu,Paid Ads
+1463,Customer_1463,2025-07-01,Bengaluru,Karnataka,Organic
+1464,Customer_1464,2024-11-02,Coimbatore,Tamil Nadu,Paid Ads
+1465,Customer_1465,2024-01-05,Kochi,Kerala,Social Media
+1466,Customer_1466,2025-12-07,Mumbai,Maharashtra,Email
+1467,Customer_1467,2024-05-01,Delhi,Delhi,Social Media
+1468,Customer_1468,2025-03-11,Coimbatore,Tamil Nadu,Paid Ads
+1469,Customer_1469,2024-05-12,Hyderabad,Telangana,Organic
+1470,Customer_1470,2025-11-13,Chennai,Tamil Nadu,Social Media
+1471,Customer_1471,2025-06-23,Coimbatore,Tamil Nadu,Referral
+1472,Customer_1472,2025-08-10,Bengaluru,Karnataka,Paid Ads
+1473,Customer_1473,2024-11-11,Kochi,Kerala,Social Media
+1474,Customer_1474,2024-12-07,Pune,Maharashtra,Email
+1475,Customer_1475,2025-04-08,Mumbai,Maharashtra,Referral
+1476,Customer_1476,2025-07-27,Bengaluru,Karnataka,Social Media
+1477,Customer_1477,2025-09-11,Coimbatore,Tamil Nadu,Paid Ads
+1478,Customer_1478,2024-01-14,Bengaluru,Karnataka,Social Media
+1479,Customer_1479,2025-04-30,Mumbai,Maharashtra,Paid Ads
+1480,Customer_1480,2024-03-20,Kochi,Kerala,Social Media
+1481,Customer_1481,2024-07-29,Delhi,Delhi,Organic
+1482,Customer_1482,2025-08-29,Delhi,Delhi,Email
+1483,Customer_1483,2024-07-02,Delhi,Delhi,Email
+1484,Customer_1484,2025-08-05,Pune,Maharashtra,Referral
+1485,Customer_1485,2024-12-04,Bengaluru,Karnataka,Email
+1486,Customer_1486,2024-06-19,Kochi,Kerala,Referral
+1487,Customer_1487,2024-09-01,Kochi,Kerala,Referral
+1488,Customer_1488,2025-01-22,Delhi,Delhi,Referral
+1489,Customer_1489,2025-07-13,Coimbatore,Tamil Nadu,Social Media
+1490,Customer_1490,2025-03-18,Bengaluru,Karnataka,Social Media
+1491,Customer_1491,2025-11-13,Pune,Maharashtra,Organic
+1492,Customer_1492,2025-09-26,Mumbai,Maharashtra,Paid Ads
+1493,Customer_1493,2025-07-04,Kochi,Kerala,Social Media
+1494,Customer_1494,2025-03-16,Mumbai,Maharashtra,Organic
+1495,Customer_1495,2024-07-30,Hyderabad,Telangana,Paid Ads
+1496,Customer_1496,2024-10-28,Chennai,Tamil Nadu,Social Media
+1497,Customer_1497,2024-03-27,Kochi,Kerala,Organic
+1498,Customer_1498,2024-09-30,Kochi,Kerala,Referral
+1499,Customer_1499,2025-11-08,Chennai,Tamil Nadu,Referral
+1500,Customer_1500,2024-11-07,Mumbai,Maharashtra,Organic
+1501,Customer_1501,2024-03-24,Mumbai,Maharashtra,Organic
+1502,Customer_1502,2025-04-21,Mumbai,Maharashtra,Social Media
+1503,Customer_1503,2025-12-04,Delhi,Delhi,Referral
+1504,Customer_1504,2025-09-26,Bengaluru,Karnataka,Referral
+1505,Customer_1505,2024-07-19,Hyderabad,Telangana,Organic
+1506,Customer_1506,2024-11-27,Bengaluru,Karnataka,Referral
+1507,Customer_1507,2025-01-23,Bengaluru,Karnataka,Organic
+1508,Customer_1508,2024-06-30,Delhi,Delhi,Social Media
+1509,Customer_1509,2024-07-15,Delhi,Delhi,Email
+1510,Customer_1510,2024-06-22,Chennai,Tamil Nadu,Organic
+1511,Customer_1511,2025-12-28,Coimbatore,Tamil Nadu,Organic
+1512,Customer_1512,2025-06-29,Bengaluru,Karnataka,Social Media
+1513,Customer_1513,2025-09-06,Bengaluru,Karnataka,Paid Ads
+1514,Customer_1514,2025-08-19,Hyderabad,Telangana,Email
+1515,Customer_1515,2025-12-02,Bengaluru,Karnataka,Email
+1516,Customer_1516,2024-03-17,Mumbai,Maharashtra,Organic
+1517,Customer_1517,2025-10-06,Delhi,Delhi,Organic
+1518,Customer_1518,2024-02-18,Pune,Maharashtra,Referral
+1519,Customer_1519,2024-12-13,Coimbatore,Tamil Nadu,Organic
+1520,Customer_1520,2025-03-10,Mumbai,Maharashtra,Email
+1521,Customer_1521,2024-09-18,Chennai,Tamil Nadu,Paid Ads
+1522,Customer_1522,2024-04-16,Chennai,Tamil Nadu,Organic
+1523,Customer_1523,2024-05-20,Hyderabad,Telangana,Referral
+1524,Customer_1524,2025-08-25,Bengaluru,Karnataka,Organic
+1525,Customer_1525,2024-08-20,Kochi,Kerala,Social Media
+1526,Customer_1526,2024-08-14,Kochi,Kerala,Paid Ads
+1527,Customer_1527,2025-11-05,Kochi,Kerala,Paid Ads
+1528,Customer_1528,2024-04-15,Coimbatore,Tamil Nadu,Paid Ads
+1529,Customer_1529,2025-10-31,Pune,Maharashtra,Paid Ads
+1530,Customer_1530,2025-11-04,Coimbatore,Tamil Nadu,Email
+1531,Customer_1531,2025-03-13,Mumbai,Maharashtra,Email
+1532,Customer_1532,2024-05-01,Coimbatore,Tamil Nadu,Paid Ads
+1533,Customer_1533,2024-04-23,Kochi,Kerala,Organic
+1534,Customer_1534,2024-07-27,Kochi,Kerala,Referral
+1535,Customer_1535,2025-02-26,Pune,Maharashtra,Email
+1536,Customer_1536,2024-04-22,Chennai,Tamil Nadu,Social Media
+1537,Customer_1537,2024-11-29,Coimbatore,Tamil Nadu,Social Media
+1538,Customer_1538,2024-03-25,Hyderabad,Telangana,Social Media
+1539,Customer_1539,2025-01-29,Coimbatore,Tamil Nadu,Organic
+1540,Customer_1540,2024-01-16,Pune,Maharashtra,Paid Ads
+1541,Customer_1541,2025-06-02,Delhi,Delhi,Social Media
+1542,Customer_1542,2024-02-10,Hyderabad,Telangana,Referral
+1543,Customer_1543,2024-05-22,Delhi,Delhi,Referral
+1544,Customer_1544,2024-05-07,Kochi,Kerala,Referral
+1545,Customer_1545,2025-08-30,Hyderabad,Telangana,Social Media
+1546,Customer_1546,2024-02-09,Mumbai,Maharashtra,Social Media
+1547,Customer_1547,2024-11-09,Pune,Maharashtra,Referral
+1548,Customer_1548,2025-03-08,Kochi,Kerala,Referral
+1549,Customer_1549,2025-01-12,Coimbatore,Tamil Nadu,Social Media
+1550,Customer_1550,2025-05-12,Kochi,Kerala,Email
+1551,Customer_1551,2025-08-10,Hyderabad,Telangana,Organic
+1552,Customer_1552,2024-10-14,Pune,Maharashtra,Referral
+1553,Customer_1553,2025-08-28,Mumbai,Maharashtra,Organic
+1554,Customer_1554,2024-08-20,Delhi,Delhi,Organic
+1555,Customer_1555,2025-12-20,Hyderabad,Telangana,Paid Ads
+1556,Customer_1556,2025-01-03,Pune,Maharashtra,Organic
+1557,Customer_1557,2025-06-22,Chennai,Tamil Nadu,Organic
+1558,Customer_1558,2025-10-01,Kochi,Kerala,Organic
+1559,Customer_1559,2025-08-02,Mumbai,Maharashtra,Social Media
+1560,Customer_1560,2025-09-14,Hyderabad,Telangana,Referral
+1561,Customer_1561,2025-01-27,Pune,Maharashtra,Organic
+1562,Customer_1562,2024-02-01,Mumbai,Maharashtra,Paid Ads
+1563,Customer_1563,2024-12-26,Kochi,Kerala,Referral
+1564,Customer_1564,2024-05-12,Pune,Maharashtra,Organic
+1565,Customer_1565,2025-10-11,Pune,Maharashtra,Organic
+1566,Customer_1566,2024-06-22,Chennai,Tamil Nadu,Referral
+1567,Customer_1567,2024-06-15,Chennai,Tamil Nadu,Referral
+1568,Customer_1568,2024-07-01,Mumbai,Maharashtra,Paid Ads
+1569,Customer_1569,2025-04-14,Delhi,Delhi,Referral
+1570,Customer_1570,2025-02-21,Delhi,Delhi,Organic
+1571,Customer_1571,2025-11-24,Coimbatore,Tamil Nadu,Social Media
+1572,Customer_1572,2024-10-31,Coimbatore,Tamil Nadu,Referral
+1573,Customer_1573,2024-07-25,Mumbai,Maharashtra,Organic
+1574,Customer_1574,2024-02-06,Bengaluru,Karnataka,Referral
+1575,Customer_1575,2024-01-06,Chennai,Tamil Nadu,Paid Ads
+1576,Customer_1576,2024-09-30,Hyderabad,Telangana,Referral
+1577,Customer_1577,2025-11-07,Hyderabad,Telangana,Social Media
+1578,Customer_1578,2025-01-17,Bengaluru,Karnataka,Social Media
+1579,Customer_1579,2025-10-15,Hyderabad,Telangana,Organic
+1580,Customer_1580,2024-03-15,Chennai,Tamil Nadu,Organic
+1581,Customer_1581,2024-03-09,Pune,Maharashtra,Referral
+1582,Customer_1582,2025-09-01,Delhi,Delhi,Organic
+1583,Customer_1583,2024-03-19,Coimbatore,Tamil Nadu,Organic
+1584,Customer_1584,2024-02-07,Mumbai,Maharashtra,Organic
+1585,Customer_1585,2024-10-22,Mumbai,Maharashtra,Organic
+1586,Customer_1586,2025-11-07,Hyderabad,Telangana,Referral
+1587,Customer_1587,2025-05-18,Bengaluru,Karnataka,Social Media
+1588,Customer_1588,2024-03-13,Pune,Maharashtra,Email
+1589,Customer_1589,2025-09-03,Pune,Maharashtra,Organic
+1590,Customer_1590,2025-09-08,Chennai,Tamil Nadu,Paid Ads
+1591,Customer_1591,2025-08-08,Mumbai,Maharashtra,Social Media
+1592,Customer_1592,2025-10-21,Hyderabad,Telangana,Social Media
+1593,Customer_1593,2024-06-24,Bengaluru,Karnataka,Referral
+1594,Customer_1594,2025-12-17,Coimbatore,Tamil Nadu,Email
+1595,Customer_1595,2024-08-22,Pune,Maharashtra,Referral
+1596,Customer_1596,2025-08-09,Coimbatore,Tamil Nadu,Organic
+1597,Customer_1597,2025-02-27,Coimbatore,Tamil Nadu,Organic
+1598,Customer_1598,2025-07-23,Delhi,Delhi,Paid Ads
+1599,Customer_1599,2025-04-03,Kochi,Kerala,Social Media
+1600,Customer_1600,2025-04-14,Pune,Maharashtra,Referral

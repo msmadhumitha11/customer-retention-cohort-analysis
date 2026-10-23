@@ -61,8 +61,6 @@ The SQL analysis generates results for:
 - Monthly cohort retention percentages.
 - Customer rankings and purchase intervals.
 
-*Add actual numerical findings after validating the SQL query results.*
-
 ## 💡 Business Recommendations
 
 - **Encourage Repeat Purchases:** Investigate opportunities to improve repeat purchasing.

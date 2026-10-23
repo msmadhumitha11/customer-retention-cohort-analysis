@@ -1,90 +1,104 @@
-# Customer Retention & Cohort Analysis
+## Customer Retention & Cohort Analysis Using MySQL
 
-## Project Overview
+**A Data Analytics Project | SQL | Customer Behavior | Revenue Analysis | Cohort Retention**
 
-This project analyzes customer purchasing behavior, repeat purchases, customer retention, and cohort performance using SQL in MySQL Workbench.
+## 📌 Project Overview
 
-The goal is to transform raw datasets into meaningful business insights that help organizations understand customer behavior and make data-driven decisions.
+This project analyzes e-commerce customer purchasing behavior, revenue, repeat purchases, and customer retention using **MySQL**.
 
-## Business Problem
+Using four datasets — customers, orders, products, and order items — this project explores purchasing patterns, identifies repeat customers, analyzes revenue, and measures monthly customer retention through cohort analysis.
 
-Businesses need to understand whether customers return after their first purchase, which products and categories perform well, and how customer retention changes over time.
+## 🎯 Business Problem
 
-This project uses SQL analysis to explore these questions and identify opportunities to improve customer retention and business performance.
+Businesses need to understand whether customers return after their first purchase, how purchasing behavior changes over time, and which customer cohorts demonstrate stronger retention.
 
-## Project Objectives
+This project uses SQL to analyze these patterns and support data-driven business decisions.
 
-- Analyze overall business performance.
-- Identify repeat customers.
-- Evaluate customer purchasing behavior.
-- Measure customer retention.
-- Perform customer cohort analysis.
-- Analyze product and category performance.
-- Generate insights to support business decisions.
+## 🎯 Project Objectives
 
-## Tools & Technologies
+- Analyze customer purchasing behavior and transaction performance.
+- Calculate revenue from completed orders.
+- Identify repeat customers and one-time customers.
+- Measure the repeat customer rate.
+- Analyze revenue by product and product category.
+- Calculate monthly customer retention using cohort analysis.
+- Identify customer retention trends and improvement opportunities.
 
-- MySQL Workbench
-- SQL
-- GitHub
+## 🛠️ Tools & Technologies
 
-## SQL Concepts Used
+- **Database:** MySQL
+- **SQL Environment:** MySQL Workbench
+- **Query Language:** SQL
+- **SQL Concepts:** JOINs, aggregate functions, subqueries, CTEs, window functions, and date functions.
 
-- SELECT, WHERE, GROUP BY, ORDER BY
-- Aggregate functions
-- JOINs
-- Common Table Expressions (CTEs)
-- Window functions
-- Date functions
-- Subqueries
-- Data quality checks
+## 📂 Dataset Description
 
-## Dataset Information
+| Dataset | Description |
+|---|---|
+| Customers | Customer details and identifiers |
+| Orders | Order dates, customer relationships, and order statuses |
+| Products | Product details and categories |
+| Order Items | Product-level order details, quantities, and prices |
 
-This project uses four datasets stored in the `data/` folder.
+## 🔍 Analysis Performed
 
-The datasets were imported into MySQL Workbench for data preparation, business performance analysis, customer analysis, and cohort analysis.
+- **Data Quality Analysis:** Checked missing values, duplicate records, invalid values, and table relationships.
+- **Business Performance Analysis:** Analyzed order statuses, revenue, monthly revenue, and product performance.
+- **Customer Behavior Analysis:** Identified repeat customers, one-time customers, and customer-level revenue.
+- **Purchase Analysis:** Examined first and most recent purchase dates and time between consecutive purchases.
+- **Cohort Analysis:** Grouped customers by their first completed purchase month and calculated monthly retention rates.
+- **Advanced SQL Analysis:** Used CTEs, `DENSE_RANK()`, `LAG()`, and window functions.
 
-## Project Structure
+## 📊 Key Findings
 
-- `data/` — Source datasets
-- `SQL/` — SQL queries and analysis scripts
-- `screenshots/` — Analysis screenshots and query results
-- `README.md` — Project documentation
+The SQL analysis generates results for:
 
-## Business Questions
+- Total customers and orders.
+- Revenue from completed orders.
+- Repeat customer count and rate.
+- Revenue by product and category.
+- Monthly revenue and active customers.
+- Monthly cohort retention percentages.
+- Customer rankings and purchase intervals.
 
-- What is the overall business performance?
-- Which products generate the highest revenue?
-- How are orders distributed by status?
-- Which product categories contribute the most revenue?
-- How many customers make repeat purchases?
-- How does customer retention change across cohorts?
+*Add actual numerical findings after validating the SQL query results.*
 
-## Key Findings
+## 💡 Business Recommendations
 
-- **Business Performance:** Analyzed business performance using SQL queries.
-- **Product Performance:** Identified the best-selling product based on the analysis.
-- **Order Status:** Examined the distribution of orders across different statuses.
-- **Category Revenue:** Compared revenue across product categories.
-- **Repeat Customers:** Analyzed repeat purchasing behavior.
-- **Cohort Retention:** Examined customer retention patterns over time.
-- **Data Quality:** Performed checks to assess data consistency and reliability.
+- **Encourage Repeat Purchases:** Investigate opportunities to improve repeat purchasing.
+- **Improve Customer Retention:** Examine cohorts with lower retention rates.
+- **Optimize Product Performance:** Identify products and categories contributing the most revenue.
+- **Monitor Customer Engagement:** Evaluate purchasing frequency and retention trends.
 
-## Business Recommendations
+## ▶️ How to Run the Project
 
-- Use repeat-purchase analysis to identify opportunities for customer engagement.
-- Consider targeted retention campaigns to encourage customers to return.
-- Monitor product and category performance to support inventory and sales decisions.
-- Track cohort retention over time to identify changes in customer behavior.
-- Use verified business metrics to evaluate the impact of retention strategies.
+1. Install MySQL Server and MySQL Workbench.
+2. Import the four datasets into MySQL.
+3. Create or select the database `customer_retention_db`.
+4. Open the `SQL` file in MySQL Workbench.
+5. Execute the queries in the documented order.
+6. Review the customer behavior, revenue, and cohort retention results.
 
-## Conclusion
+## ⚠️ Limitations
 
-This project demonstrates the practical application of SQL for business performance analysis, customer purchasing behavior, repeat-customer analysis, and cohort-based retention analysis.
+- Results depend on the quality and completeness of the source data.
+- Revenue calculations may exclude discounts, refunds, or other adjustments not included in the queries.
+- Recent cohorts may have shorter observation periods than older cohorts.
+- Historical retention patterns do not guarantee future customer behavior.
 
-It showcases the use of SQL queries to explore datasets, answer business questions, and support data-driven decision-making.
+## 🚀 Future Improvements
 
-## Author
+- Create a cohort retention heatmap.
+- Build an interactive dashboard using Power BI.
+- Organize SQL queries into separate files.
+- Add screenshots of key results and business insights.
 
-GitHub: [msmadhumitha11](https://github.com/msmadhumitha11)
+## 👩‍💻 Author
+
+**M. S. Madhumitha**
+
+Aspiring Data Analyst
+
+**GitHub:** [msmadhumitha11](https://github.com/msmadhumitha11)
+
+**Project Repository:** [Customer Retention & Cohort Analysis](https://github.com/msmadhumitha11/customer-retention-cohort-analysis)
